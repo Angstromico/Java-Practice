@@ -7,5 +7,9 @@ public class Integers {
         double total = a + b +c;
 
         System.out.println(total);
+
+        double theLastOne = 1000 - total;
+
+        System.out.println(theLastOne);
     }
 }
